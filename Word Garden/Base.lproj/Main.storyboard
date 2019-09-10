@@ -107,7 +107,7 @@
                         <outlet property="guessCountLabel" destination="CEx-fP-cqd" id="Mhc-vx-tmd"/>
                         <outlet property="guessLetterButton" destination="ZV5-Ls-XvB" id="Zl2-IV-jFa"/>
                         <outlet property="guessedLetterField" destination="qcr-zX-r4c" id="igb-GZ-2BH"/>
-                        <outlet property="playAgainButton" destination="CEx-fP-cqd" id="wk5-BW-ITC"/>
+                        <outlet property="playAgainButton" destination="YBr-yv-cmH" id="h4F-V3-MHI"/>
                         <outlet property="userGuessLabel" destination="elS-XT-nce" id="qQg-d3-nJE"/>
                     </connections>
                 </viewController>
